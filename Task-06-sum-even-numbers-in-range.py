@@ -1,8 +1,9 @@
-#Write a program that will display the sum of all even numbers in the range 1 - 100.
-for a in range(2-100)
-    even = True
+# Write a program that will display the sum of all even numbers in the range 1 - 100.
 
-    #even check
-    for b in range(2,a)
-        if a % b == 0:
-            even = True
+sum = 0
+
+for a in range(1, 101):
+    if a % 2 == 0:
+        sum += a
+
+print(sum)
