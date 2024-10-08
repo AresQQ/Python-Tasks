@@ -1,5 +1,10 @@
 # Create a list that contains 10 words, then create a second list that will contain only those words which have more than 5 letters.
-list = ["Elephant" , "Apple" , "Bicycle" , "Mountain" , "Dog" , "Butterfly" , "Table" , "Computer" , "Sun" , "Car"]
-long_list = [word for word in list if len(word) >5]
+words = ["Elephant" , "Apple" , "Bicycle" , "Mountain" , "Dog" , "Butterfly" , "Table" , "Computer" , "Sun" , "Car"]
 
-print(long_list)
+more_then_5_letters = []
+
+for word in words:
+    if len(word) > 5:
+        more_then_5_letters.append(word)
+
+print(more_then_5_letters)

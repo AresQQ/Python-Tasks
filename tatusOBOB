@@ -1,0 +1,53 @@
+[33mcommit fd1399f1e914776f7a8bcd2656faf1af56b965a0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: ares <perzynskiwojciech@gmail.com>
+Date:   Mon Sep 30 19:46:59 2024 +0200
+
+    Sum all even numbers in range
+
+[33mcommit ab7cf4165fd0bf566c03e1e83a944e2ecb2e711a[m
+Author: ares <perzynskiwojciech@gmail.com>
+Date:   Mon Sep 30 19:43:27 2024 +0200
+
+    displays prime numbers from 1 to 100
+
+[33mcommit 241e1c5b9ee2fd6617c3d0f54d301ca29851442c[m
+Author: ares <perzynskiwojciech@gmail.com>
+Date:   Mon Sep 30 19:30:03 2024 +0200
+
+    displays numbers from 0 to 100
+
+[33mcommit afd38068d14e52501eaecb9bfc0c8441aa269828[m
+Author: ares <perzynskiwojciech@gmail.com>
+Date:   Mon Sep 30 19:03:12 2024 +0200
+
+    Grade check based on your points from 1 to 100
+
+[33mcommit 59f6d581c4b4dec987a7507d906db715b96cef33[m
+Author: ares <perzynskiwojciech@gmail.com>
+Date:   Mon Sep 30 19:01:03 2024 +0200
+
+    checks whether the number entered by the user is greater than 0, less than 0 or equal to 0
+
+[33mcommit 0a4885a8a6128aeb8e55c57c47920649306e1fb9[m
+Author: ares <perzynskiwojciech@gmail.com>
+Date:   Mon Sep 30 18:57:21 2024 +0200
+
+    Number check if its odd or even
+
+[33mcommit ad111bccf29c11183421a21fff2dea2cfc444d62[m
+Author: ares <perzynskiwojciech@gmail.com>
+Date:   Mon Sep 30 18:48:51 2024 +0200
+
+    Task 01 numer odd or even
+
+[33mcommit c617c63bf0699d5f5de3608b08af24b4ba91ba9f[m
+Author: ares <perzynskiwojciech@gmail.com>
+Date:   Mon Sep 30 18:37:18 2024 +0200
+
+    File del
+
+[33mcommit b783757f6a927cad14f51deb39a865118a2496bf[m
+Author: ares <perzynskiwojciech@gmail.com>
+Date:   Mon Sep 30 18:23:29 2024 +0200
+
+    Check number if its odd or even
